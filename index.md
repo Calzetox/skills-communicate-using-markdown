@@ -1,3 +1,4 @@
 # prueba de encabezado
 
-purueba de texto descriptivo
+prueba de texto descriptivo
+
