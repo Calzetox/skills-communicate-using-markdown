@@ -8,7 +8,5 @@ prueba de texto descriptivo
 Ejemplo 1
 "` $ git init Repositorio Git vacío inicializado en /Users/skills/Projects/recipe-repository/.git/ "` 
 
-Ejemplo 2
-"` javascript var myVar = "¡Hola mundo!"; "` 
 
 
